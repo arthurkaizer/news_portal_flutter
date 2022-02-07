@@ -1,16 +1,13 @@
 # news_portal
 
-A new Flutter project.
+Portal de notícias consumindo API : https://github.com/cyberboysumanjay/Inshorts-News-API
 
-## Getting Started
+## Tela de Principal
+<div align="center">
+<img src="https://user-images.githubusercontent.com/63858217/152834260-a4a97520-2af8-4fda-8617-3b121b196208.jpeg" width="200px" />
+</div>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tela de Notícia
+<div align="center">
+<img src="https://user-images.githubusercontent.com/63858217/152834505-9eaf1295-1b8f-4043-b701-6d1fe2363c22.jpeg" width="200px" />
+</div>
